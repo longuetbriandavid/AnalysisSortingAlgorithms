@@ -14,6 +14,8 @@ comparer les performances des différents algorithmes de tri en fonction de ce p
 
 
 
+
+
 **Mode d'emploi : **
 
 En raison de contraintes de temps, nous n'avons pas pu intégrer ma partie "Visualisation des algorithmes de tri pas à pas" au reste du projet. Pour l'utiliser, il vous suffit d'exécuter le fichier main.py en utilisant la commande **python3 main.py**.
