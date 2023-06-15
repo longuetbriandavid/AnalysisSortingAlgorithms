@@ -1,5 +1,7 @@
 # AnalysisSortingAlgorithms
 
+**Context : **
+
 Le tri de données est une opération fondamentale dans l’informatique, qui consiste à organiser un ensemble de données dans un ordre précis. Il existe de nombreux algorithmes de tri, chacun ayant ses avantages et ses inconvénients. Certains algorithmes sont plus efficaces que d’autres en fonction de la structure des données à trier, et certains peuvent même être optimisés en fonction de la distribution des données en entrée.
 
 
@@ -12,7 +14,7 @@ comparer les performances des différents algorithmes de tri en fonction de ce p
 
 
 
-Mode d'emploi : 
+**Mode d'emploi : **
 
 En raison de contraintes de temps, nous n'avons pas pu intégrer ma partie "Visualisation des algorithmes de tri pas à pas" au reste du projet. Pour l'utiliser, il vous suffit d'exécuter le fichier main.py en utilisant la commande **python3 main.py**.
 
