@@ -12,13 +12,27 @@ Pour répondre à cette question, nous avons dû développer un générateur de
 données paramétré par un niveau de désordre, et effectuer des expériences pour
 comparer les performances des différents algorithmes de tri en fonction de ce paramètre. En analysant les résultats, nous avons déterminé quels algorithmes sont les plus adaptés à des situations de désordre élevé ou faible.
 
+**Algorithmes implémentés : **
 
-
+- SelectionSort
+- BubbleSort
+- InsertionSort
+- QuickSort
+- MergeSort
+- HeapSort
+- CountingSort
+- ShellSort
+- GnomeSort
+- PancakeSort
+- CombSort
+- BogoSort
 
 
 **Mode d'emploi : **
 
-En raison de contraintes de temps, nous n'avons pas pu intégrer ma partie "Visualisation des algorithmes de tri pas à pas" au reste du projet. Pour l'utiliser, il vous suffit d'exécuter le fichier main.py en utilisant la commande **python3 main.py**.
+En raison de contraintes de temps, nous n'avons pas pu intégrer la "Visualisation des algorithmes de tri pas à pas" au reste du projet. Pour l'utiliser, il vous suffit d'exécuter le fichier **main.py** en utilisant la commande **python3 main.py**. Cela affichera l'exécution en temps réel de l'algorithme QuickSort.
+
+Avant de lancer cette commande, dans le fichier **main.py** vous pouvez sélectionner l'algorithme de votre choix en commentant ou décommentant les lignes correspondantes. Vers la fin du fichier, si vous souhaitez exécuter l'algorithme sans affichage, définissez la variable choice à 0. Pour afficher les étapes à l'écran, réglez-la sur 1, et pour lancer les tests sur 2.
 
 Pour découvrir le reste du projet, veuillez lancer la commande **python3 tkMain.py**.
 
