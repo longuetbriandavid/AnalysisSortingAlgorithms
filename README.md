@@ -1,5 +1,7 @@
 # AnalysisSortingAlgorithms
 
+Ce projet a été réalisé dans le cadre de la troisième année de licence en informatique.
+
 **Context : **
 
 Le tri de données est une opération fondamentale dans l’informatique, qui consiste à organiser un ensemble de données dans un ordre précis. Il existe de nombreux algorithmes de tri, chacun ayant ses avantages et ses inconvénients. Certains algorithmes sont plus efficaces que d’autres en fonction de la structure des données à trier, et certains peuvent même être optimisés en fonction de la distribution des données en entrée.
